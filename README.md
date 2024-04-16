@@ -28,3 +28,4 @@ I am not accepting pull requests for now to better keep in sync with the accompa
 YouTube video
 series "[Creating a Compiler](https://www.youtube.com/playlist?list=PLUDlas_Zy_qC7c5tCgTMYq2idyyT241qs)" by Pixeled
 # hydrogen-compiler-cpp
+# compiler-cpp-hydrogen
